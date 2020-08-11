@@ -110,4 +110,4 @@ opencart
 3- CV
 </pre>
 
-*[![Known Vulnerabilities](https://snyk.io/test/github/ddr01d3k4/NekoBotV1/badge.svg?targetFile=Tools/amz/composer.lock)](https://snyk.io/test/github/ddr01d3k4/NekoBotV1?targetFile=Tools/amz/composer.lock)
+[![Known Vulnerabilities](https://snyk.io/test/github/ddr01d3k4/NekoBotV1/badge.svg?targetFile=Tools/amz/composer.lock)](https://snyk.io/test/github/ddr01d3k4/NekoBotV1?targetFile=Tools/amz/composer.lock)
